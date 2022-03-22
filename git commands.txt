@@ -1,4 +1,4 @@
-# add->commit->push ->
+# save locally then -> add->commit->push
 
 # push to master
 git push origin master
