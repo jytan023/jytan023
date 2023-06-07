@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jun Yuan.
 - 👀 I’m interested in data science, machine learning,
-- 🌱 I’m currently learning data structure and algorithm
-- 💞️ I’m looking to collaborate on data science projects
+- 🌱 I’m currently revising Linear Algebra, Calculus, Statistics, and learning about quantitative finance.
+- 💞️ I’m looking to collaborate on data science projects.
 - 📫 You can reach me at jytan023@gmail.com
 
 <!---
