@@ -80,6 +80,6 @@ Outside of work, I explore developer tooling hands-on — from building local AI
 
 I'm actively exploring AI/ML engineering, data science, and AI infrastructure roles — particularly in fintech, developer tooling, or applied AI. If you're working on something interesting or just want to exchange ideas, reach out!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/YOUR_HANDLE)
-[![Website](https://img.shields.io/badge/Website-Visit-4285F4?style=flat-square&logo=googlechrome&logoColor=white)](https://YOUR_WEBSITE)
-[![Email](https://img.shields.io/badge/Email-Say_Hi-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/jun-yuan-tan-7aa642150/)
+# [![Website](https://img.shields.io/badge/Website-Visit-4285F4?style=flat-square&logo=googlechrome&logoColor=white)](https://YOUR_WEBSITE)
+[![Email](https://img.shields.io/badge/Email-Say_Hi-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jytan023@gmail.com)
