@@ -17,7 +17,7 @@
 
 I'm a senior data analyst in the fintech/payments space, currently transitioning into an AI engineering role. My work sits at the intersection of business intelligence, data pipelines, and applied AI. I'm particularly drawn to the infrastructure layer: how LLMs are deployed, routed, and integrated into real products.
 
-Outside of work, I explore developer tooling hands-on — from building local AI proxy systems to experimenting with emerging model APIs. I care about understanding how things work under the hood, not just using them.
+Outside of work, I explore developer tooling hands-on, building local AI proxy systems to experimenting with emerging model APIs. I care about understanding how things work under the hood, not just using them.
 
 - 💼 Currently: Senior Data Analyst → AI role at a fintech startup (payments domain)
 - 🔧 Building: LLM infrastructure tooling, local AI proxy systems
