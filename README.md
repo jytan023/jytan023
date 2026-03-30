@@ -60,8 +60,6 @@ Outside of work, I explore developer tooling hands-on — from building local AI
 |---|---|---|
 | **Claude Code Proxy** | Local proxy server that routes AI coding assistant API requests to multiple LLM providers (NVIDIA NIM, OpenRouter, Groq, Google AI Studio, Z.AI) via a single configurable `.env` file. Runs on Windows with FastAPI + httpx. | Python · FastAPI · httpx · dotenv |
 
-> 💡 *More projects pinned below — check out my repositories!*
-
 ---
 
 ## 🤝 Let's Connect
