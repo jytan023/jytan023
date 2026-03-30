@@ -1,12 +1,85 @@
-- 👋 Hi, I’m Jun Yuan.
-- 👀 I’m interested in data analytics, data science, machine learning, and AI.
-- 🌱 I’m currently revising ML algorithms.
-- 💞️ I’m looking to collaborate on data science projects or automation.
-- 📫 You can reach me at jytan023@gmail.com
+<div align="center">
 
-<!---
-jytan023/jytan023 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Hi, I'm Jun Yuan 👋
 
+**Data Analyst → AI/ML Engineer · Fintech & Payments · LLM Tooling · BI Infrastructure**
 
+📍 Singapore &nbsp;|&nbsp; 🔭 Open to AI/ML, Data Science & MLOps roles &nbsp;|&nbsp; 💳 Fintech domain expertise
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_HANDLE)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+
+</div>
+
+---
+
+## 🙋 About Me
+
+I'm a senior data analyst in the fintech/payments space, currently transitioning into an AI engineering role. My work sits at the intersection of business intelligence, data pipelines, and applied AI — and I'm particularly drawn to the infrastructure layer: how LLMs are deployed, routed, and integrated into real products.
+
+Outside of work, I explore developer tooling hands-on — from building local AI proxy systems to experimenting with emerging model APIs. I care about understanding how things work under the hood, not just using them.
+
+- 💼 Currently: Senior Data Analyst → AI role at a fintech startup (payments domain)
+- 🔧 Building: LLM infrastructure tooling, local AI proxy systems
+- 🎯 Targeting: AI/ML Engineer · Data Scientist · AI Infrastructure / MLOps · Data Analyst roles
+- 🌱 Exploring: LLM APIs, model routing, agentic systems, AI developer tooling
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages & Scripting**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**AI & LLM Tooling**
+
+![Anthropic](https://img.shields.io/badge/Anthropic_Claude-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
+![OpenRouter](https://img.shields.io/badge/OpenRouter-000000?style=for-the-badge&logo=openai&logoColor=white)
+![NVIDIA NIM](https://img.shields.io/badge/NVIDIA_NIM-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![Google AI](https://img.shields.io/badge/Google_AI_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logoColor=white)
+
+**Backend & APIs**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![httpx](https://img.shields.io/badge/httpx-2E86AB?style=for-the-badge&logo=python&logoColor=white)
+
+**Data & BI**
+
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+![Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| **Claude Code Proxy** | Local proxy server that routes AI coding assistant API requests to multiple LLM providers (NVIDIA NIM, OpenRouter, Groq, Google AI Studio, Z.AI) via a single configurable `.env` file. Runs on Windows with FastAPI + httpx. | Python · FastAPI · httpx · dotenv |
+| *(Your next project)* | Add a link to a BI dashboard, SQL pipeline, or AI experiment here | — |
+
+> 💡 *More projects pinned below — check out my repositories!*
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true)
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+I'm actively exploring AI/ML engineering, data science, and AI infrastructure roles — particularly in fintech, developer tooling, or applied AI. If you're working on something interesting or just want to exchange ideas, reach out!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/YOUR_HANDLE)
+[![Website](https://img.shields.io/badge/Website-Visit-4285F4?style=flat-square&logo=googlechrome&logoColor=white)](https://YOUR_WEBSITE)
+[![Email](https://img.shields.io/badge/Email-Say_Hi-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
