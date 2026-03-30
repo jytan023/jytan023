@@ -64,19 +64,9 @@ Outside of work, I explore developer tooling hands-on — from building local AI
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-# ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jytan023&show_icons=true&theme=default&hide_border=true)
-# ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jytan023&layout=compact&hide_border=true)
-</div>
-
----
-
 ## 🤝 Let's Connect
 
 I'm actively exploring AI/ML engineering, data science, and AI infrastructure roles — particularly in fintech, developer tooling, or applied AI. If you're working on something interesting or just want to exchange ideas, reach out!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/jun-yuan-tan-7aa642150/)
-# [![Website](https://img.shields.io/badge/Website-Visit-4285F4?style=flat-square&logo=googlechrome&logoColor=white)](https://YOUR_WEBSITE)
 [![Email](https://img.shields.io/badge/Email-Say_Hi-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jytan023@gmail.com)
