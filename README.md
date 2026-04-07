@@ -2,7 +2,7 @@
 
 # Hi, I'm Jun Yuan 👋
 
-**Data Analyst → AI/ML Engineer · Fintech & Payments · LLM Tooling · BI Infrastructure**
+**Senior Data Analyst → Aspiring AI/ML Engineer · Fintech & Payments · LLM Tooling · BI Infrastructure**
 
 📍 Singapore &nbsp;|&nbsp; 🔭 Open to AI/ML, Data Science & MLOps roles &nbsp;|&nbsp; 💳 Fintech domain expertise
 
