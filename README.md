@@ -41,11 +41,6 @@ Outside of work, I explore developer tooling hands-on, building local AI proxy s
 ![Google AI](https://img.shields.io/badge/Google_AI_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logoColor=white)
 
-**Backend & APIs**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![httpx](https://img.shields.io/badge/httpx-2E86AB?style=for-the-badge&logo=python&logoColor=white)
-
 **Data & BI**
 
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
